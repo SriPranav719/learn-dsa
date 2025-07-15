@@ -149,3 +149,5 @@ def find_indices(arr, target):
     return index_list
 
 print(find_indices([7, 10, 4, 7, 15, 6, 4, 7, 3, 7], 7))
+
+
